@@ -1,4 +1,4 @@
-## The Amazing Race
+## The A-maze-ing Race
 ---
 In this project, we were tasked to build a robot to find its way through a maze in the shortest time possible. 
 The robot will face several colour challenges at intermediate waypoints while attempting to complete the maze. 

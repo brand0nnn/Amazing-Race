@@ -7,3 +7,5 @@ In this project, we were tasked to build a robot to find its way through a maze 
 The robot will face several colour challenges at intermediate waypoints while attempting to complete the maze. 
 To complete the maze, the robot has to successfully decipher all the colours accurately at these waypoints that 
 direct the robot to the end of the maze while bumping the walls as little as possible.
+
+More information can be found in our report [here](B01-S2-T1 CG1111A Report.pdf).
